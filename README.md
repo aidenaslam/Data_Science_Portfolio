@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This page summarises my data science portfolio. Please do get in touch with me if you have any questions.
+Thank you for visiting my portfolio - the first four projects are from my Master's degree and full reports on these projects are available upon request. Most of my work has been focused on machine learning and my intentions for future projects include text classification and the deployment of models. Please do get in touch with me if you have any questions or feedback on my work. 
 
 * [Road Traffic Accidents in the UK (2005-2015)](https://github.com/aidenaslam/UK_Road_Accidents): the UK government is consistently looking for new ways to improve road safety. This project utilised recurrent neural networks and clustering to predict the number of road accidents and help identify the areas of improvement needed in road safety in the UK. 
 
@@ -9,4 +9,4 @@ This page summarises my data science portfolio. Please do get in touch with me i
 
 * [Predicting Flight Delays: A Case Study of Hartsfield-Jackson Atlanta International Airport (ATL)](https://github.com/aidenaslam/Predicting-Flight-Delays-A-Case-Study-of-Hartsfield-Jackson-Atlanta-International-Airport-ATL-): The US aviation industry in the last decade has experienced an ever-increasing demand of passengers. This is requiring airports to evaluate their current strategies and be able to adapt to changing industrial environments to not only provide a better service towards airlines and passengers, but to maximise profit through efficient operation. One way to achieve this is by efficiently organising and handling airport capacity. The aim of this study was therefore, to implement deep learning to accurately predict the arrival delay of flights at ATL in the US to assist with airport capacity planning for the ever-increasing passenger demand.
 
-* [Text Classification of BBC Sport News Articles](https://github.com/aidenaslam/Text-Classification-BBC-Sport):
+* [Text Classification of BBC Sport News Articles](https://github.com/aidenaslam/Text-Classification-BBC-Sport): Currently in progress....
