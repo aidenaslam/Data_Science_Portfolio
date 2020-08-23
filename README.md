@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Thank you for visiting my portfolio - the first four projects are from my Master's degree and full reports on these projects are available upon request. Most of my work has been focused on machine learning and my intentions for future projects include text classification and the deployment of models. Please do get in touch with me if you have any questions or feedback on my work. 
+Thank you for visiting my portfolio - the first four projects are from my Master's degree and full reports on these projects are available upon request. Most of my work has been focused on machine learning and my intentions for future projects include natural language processing, data visualisation and the deployment of models. Please do get in touch with me if you have any questions or feedback on my work. 
 
 ## Machine Learning
 
