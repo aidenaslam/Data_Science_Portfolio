@@ -11,6 +11,8 @@ Thank you for visiting my portfolio - the first four projects are from my Master
 
 * [Predicting Flight Delays: A Case Study of Hartsfield-Jackson Atlanta International Airport (ATL)](https://github.com/aidenaslam/Predicting-Flight-Delays-A-Case-Study-of-Hartsfield-Jackson-Atlanta-International-Airport-ATL-): The US aviation industry in the last decade has experienced an ever-increasing demand of passengers. This is requiring airports to evaluate their current strategies and be able to adapt to changing industrial environments to not only provide a better service towards airlines and passengers, but to maximise profit through efficient operation. One way to achieve this is by efficiently organising and handling airport capacity. The aim of this study was therefore, to implement deep learning to accurately predict the arrival delay of flights at ATL in the US to assist with airport capacity planning for the ever-increasing passenger demand.
 
+* Customer Segmentation of UK Supermarket Purchases - In Progress...
+
 ## Natural Language Processing
 
 * [Text Classification of Sports News Articles](https://github.com/aidenaslam/Text-Classification-Sports-News): Text classification is becoming an increasingly important part of businesses as it allows to easily get insights from data and automate business processes. In this project web scraping was performed to create a dataset of sports news headlines alongside the name of the sport in order to construct a model, using machine learning, that can accuratley classify the type of sport a headline presents. This project improved my skills in sourcing data via web scraping and handling unstructured datasets.
