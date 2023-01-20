@@ -21,5 +21,5 @@ Thank you for visiting my portfolio - the first four projects are from my Master
 
 ## Computer Vision
 
-* [CNN Classifier to Predict Damage Sustained by Vehicle](https://github.com/aidenaslam/Motor-Insurance-Claims-Classifier): Currently in Deployment.
+* [Transfer Learning to Predict Damage Sustained by Vehicle](https://github.com/aidenaslam/Motor-Insurance-Claims-Classifier): Currently in Deployment.
 
