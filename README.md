@@ -21,5 +21,4 @@ Thank you for visiting my portfolio - the first four projects are from my Master
 
 ## Computer Vision
 
-* [Transfer Learning to Predict Damage Sustained by Vehicle](https://github.com/aidenaslam/Motor-Insurance-Claims-Classifier): Currently in Deployment.
-
+* [Transfer Learning to Predict Damage Sustained by Vehicle](https://github.com/aidenaslam/Motor-Insurance-Claims-Classifier): CNNs are primarily used for image classification and recognition. The applications in industry are countless - from facial recognition and medical imaging to autonomous driving. For my latest project, which I thought of during my time at IQUW (a motor insurance company), I wanted to apply computer vision to help automate an actual problem motor insurers face - classification of vehicle damage. Using the Microsoft Bing Image Search REST API in Python, I scraped over 1000 images relating to different types of vehicle damage and used transfer learning to construct an Xception CNN pre-trained on Imagenet using Tensorflow which was then deployed using streamlit.
